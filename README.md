@@ -7,6 +7,9 @@ https://docs.google.com/document/d/1-0XuxnGd0IaeIkDgBXsbHcIv0j_k4pnmpmFilhT6iH0/
 Demo presentation
 
 
+Slack channel:
+
+https://nhshd-open-data.slack.com
 
 Other:
 
